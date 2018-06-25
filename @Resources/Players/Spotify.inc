@@ -10,7 +10,7 @@ Plugin=SpotifyPlugin
 Type=AlbumArt
 Res=640
 CoverPath=#@#CoverSpotify.png
-OnChangeAction=[!CommandMeasure CoverGenerate "Update"][!Log "Change"]
+OnChangeAction=[!CommandMeasure CoverGenerate Update]
 
 [Track]
 Measure=Plugin
