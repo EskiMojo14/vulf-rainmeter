@@ -25,7 +25,7 @@ LargeFontSize=56
 SmallFontSize=20
 
 
-CoverScale=0.75
+CoverScale=(#SCREENAREAWIDTH#=1920 ? 0.75 : 0.5)
 ;Default:0.75
 LogoScale=0.5
 ;Default:0.5
