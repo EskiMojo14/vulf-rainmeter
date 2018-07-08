@@ -8,7 +8,7 @@ Colour=255,255,255
 ;default: 255,255,255
 ;Must be RGB, not hex or RGBA
 Alpha=255
-Default=255
+;Default: 255
 Colour2=fff9a2
 ;default: fff9a2
 BackgroundColour=9bbede
