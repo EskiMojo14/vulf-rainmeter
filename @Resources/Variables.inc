@@ -1,7 +1,7 @@
 [Variables]
 
 
-Player=Spotify
+Player=WMP
 
 
 Colour=255,255,255
